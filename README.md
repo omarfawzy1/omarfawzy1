@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @OmarFawzy
+- 👀 I’m interested in ComputerScience
+- 🌱 I’m currently learning Software Engineering
+- 📫 How to reach me Omar.Fawzy2020@outlook.com
